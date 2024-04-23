@@ -1,1 +1,1 @@
-# 3-prisoner-s-dillema
+# 3-prisoner-s-dilemma
